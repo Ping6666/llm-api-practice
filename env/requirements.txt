@@ -1,0 +1,6 @@
+python-dotenv
+
+groq
+openai
+
+yapf
